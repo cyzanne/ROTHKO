@@ -9,7 +9,7 @@ width: 500px;
 height: 600px;
 background-color: #F5EDDC;
 /* padding 1px*/
-/* overflow: hidden; */
+ overflow: hidden;
 }
 .frame{
     border: 50px solid black;
@@ -27,10 +27,11 @@ background-color: #F5EDDC;
     background-color: #FA9494;
     width: 475px;
     height: 200px;
-    margin: auto;
+    margin: 0 auto 20px;
 }
 .three{
     width: 91%;
     height: 28%;
     background-color: #EB1D36;
+    margin: auto;
 }
